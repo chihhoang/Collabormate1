@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Collabormate</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="google">Login with Google+</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="login">Login</string>
+    <string name="title_activity_projects">Projects</string>
+    <string name="action_project">Add_Project</string>
+    <string name="title_activity_calendar">Calendar</string>
+
+
+    <string name="about">About</string>
+    <string name="help">Help</string>
+
+    <!-- Dialog strings -->
+    <string name="dialog_about">Group Collaboration Project
+        - UW-Madison - CS407 - Spring 2015 Authors:
+        Paul Hurlbut Daniel Kretsch Chi Hoang Andrew Peterson</string>
+    <string name="dialog_help">Contact the developers. {Fill in emails} </string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+
+    <!-- Misc -->
+    <string name="test_switch">Test Switch</string>
+    <string name="medium_text">Medium Text</string>
+    <string name="email_hint">Email Hint</string>
+
+
+    <!-- Setting strings -->
+    <string name="settings">Settings</string>
+    <string name="prefdesc">Settings for use of Collabomate</string>
+    <string name="preftitle">Profile and Notification</string>
+    <string name="notif_summary">Enable Notification</string>
+    <string name="notif_title">Notification</string>
+    <string name="prof_summary">Modify Profile</string>
+    <string name="prof_title">Profile</string>
+    <string name="about_summary">About</string>
+    <string name="about_title">About</string>
+    <string name="help_summary">Help</string>
+    <string name="help_title">Help</string>
+    <string name="message_summary">Enable message notification</string>
+    <string name="message_title">Messages</string>
+    <string name="task_summary">Enable tasks notification</string>
+    <string name="task_title">Tasks due</string>
+    <string name="pref_name">Name</string>
+    <string name="pref_picture">Picture</string>
+    <string name="pref_email">Email</string>
+    <string name="pref_default_email">johnsmith@wisc.edu</string>
+    <string name="pref_phonenumber">Phone Number</string>
+    <string name="pref_default_phonenumber">***-***-****</string>
+
+</resources>
